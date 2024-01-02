@@ -1,0 +1,29 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  width: 80vw;
+  margin: 0 auto;
+  background: #69db7c;
+}
+
+.card-section {
+  margin-top: 2rem;
+}
+
+.card-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-section {
+  margin-top: 2rem;
+}
+
+.faq-section {
+  margin-top: 2rem;
+}
